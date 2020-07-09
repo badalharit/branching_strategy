@@ -1,1 +1,1 @@
-ls -lh
+ls -lash
